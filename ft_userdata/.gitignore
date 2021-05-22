@@ -1,0 +1,12 @@
+ft_userdata/user_data/backtest_results/*.json
+ft_userdata/user_data/data/binance/*.json
+ft_userdata/user_data/hyperopt_results/*.*
+ft_userdata/user_data/logs/*.log
+ft_userdata/user_data/logs/*.log.*
+ft_userdata/user_data/plot/*.html
+ft_userdata/user_data/*.lock
+ft_userdata/user_data/*.sqlite
+ft_userdata/user_data/config.secrets.json
+ft_userdata/user_data/config.secrets.PROD.json
+ft_userdata/user_data/config.secrets.dryrun.json
+ft_userdata/dhparam/*.pem
