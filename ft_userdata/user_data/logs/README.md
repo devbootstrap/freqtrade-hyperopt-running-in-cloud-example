@@ -1,0 +1,1 @@
+# Freqtrade Logs will be here.
